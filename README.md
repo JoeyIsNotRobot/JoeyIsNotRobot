@@ -14,8 +14,6 @@
   </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programador+em+c%2B%2B+Game+Hacking)](https://git.io/typing-svg)
-
 <br>
 
 # <b>Languages and Tools :-</b>
@@ -29,7 +27,7 @@
         alt="VS code" width="40" height="40"
     /> 
  </a> 
- <!-- c -->
+ <!-- php -->
  <a
     href="https://www.php.net/" 
     target="_blank" rel="noreferrer"> 
@@ -38,7 +36,16 @@
         alt="php" width="40" height="40"
     /> 
  </a> 
- <!-- cpp -->
+  <!-- laravel -->
+ <a
+    href="https://www.laravel.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
+        alt="php" width="40" height="40"
+    /> 
+ </a> 
+ <!-- mysql -->
  <a 
     href="https://mysql.com/"
     target="_blank" rel="noreferrer"> 

@@ -1,11 +1,11 @@
 [![GitHub Badge](https://img.shields.io/github/followers/JoeyIsNotRobot?style=social)](https://github.com/JoeyIsNotRobot?tab=followers)
 
 
-<h1 align="left"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"> @hecote </h1>
+<h1 align="center"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"> @hecote </h1>
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img align="center" src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
@@ -13,8 +13,6 @@
 </table>
 
   ##
-
-<br>
 
 # <b>Languages and Tools :</b>
 <div style="display: inline_block"><br>
@@ -32,8 +30,8 @@
 <br>
 
 <div> 
-  <a href="https://instagram.com/hecote" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eliniancoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hectorcoel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://instagram.com/hecote" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:eliniancoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/hectorcoel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

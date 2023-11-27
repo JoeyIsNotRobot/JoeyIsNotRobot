@@ -36,15 +36,6 @@
         alt="php" width="40" height="40"
     /> 
  </a> 
-  <!-- laravel -->
- <a
-    href="https://www.laravel.com/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-        alt="php" width="40" height="40"
-    /> 
- </a> 
  <!-- mysql -->
  <a 
     href="https://mysql.com/"
@@ -62,24 +53,7 @@
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
         width="40" height="40"
     /> 
- </a> 
-   <!-- cheatengine -->
- <a 
-    href="https://www.cheatengine.org" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73a0c553-6659-4fcc-8538-362b25615ee4/d3d20ly-56050e43-c8f1-477d-97a5-3f66424db4b0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczYTBjNTUzLTY2NTktNGZjYy04NTM4LTM2MmIyNTYxNWVlNFwvZDNkMjBseS01NjA1MGU0My1jOGYxLTQ3N2QtOTdhNS0zZjY2NDI0ZGI0YjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kW8WkEZUACWXVMdL6QHObLvDHk5yPY0lKk5lMuuyR4Q"
-        alt="CheatEngine" width="40" height="40"
-    /> 
- </a> 
- <a 
-    href="https://hex-rays.com/ida-pro/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://cdn.discordapp.com/attachments/627282020430512138/1102965103571255306/IDA.png"
-        alt="IDAPro" width="40" height="40"
-    /> 
- </a> 
+
 
 
   

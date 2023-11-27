@@ -34,8 +34,8 @@
     href="https://www.cprogramming.com/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c" width="40" height="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+        alt="php" width="40" height="40"
     /> 
  </a> 
  <!-- cpp -->
@@ -74,8 +74,5 @@
     /> 
  </a> 
 
-![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-![NestArch](https://cdn.discordapp.com/attachments/1110899207512010803/1120179765656162334/image.png)
-![NestArch](https://cdn.discordapp.com/attachments/1119744066687615128/1119771615404773537/image.png)
-![NestArch](https://cdn.discordapp.com/attachments/627282020430512138/1120189031909699635/Design_sem_nome_1_1.png)
+
   

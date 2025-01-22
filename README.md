@@ -1,4 +1,4 @@
-<h2 align="left">Olá, bem vindo(a) ao meu github, alguns me conhecem como JoeyIsNotRobot mas meu nome real é Héctor, prazer em conhece-lo(a)</h2>
+<h2 align="left">Olá, bem vindo(a) ao meu github, alguns me conhecem como Joey, prazer em conhece-lo(a)</h2>
 
 ###
 

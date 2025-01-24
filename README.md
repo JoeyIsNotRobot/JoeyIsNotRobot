@@ -52,8 +52,4 @@
 
 ###
 
-<br clear="both">
 
-![Snake animation](https://github.com/JoeyIsNotRobot/JoeyIsNotRobot/blob/output/snake.svg)
-
-###
